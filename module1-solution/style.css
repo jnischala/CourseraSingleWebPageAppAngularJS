@@ -1,0 +1,13 @@
+input {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+input.ng-invalid {
+    border-color: red;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
